@@ -1,6 +1,6 @@
 # accessibility-resources
 
-# For testing
+## For testing
 * [Jest Axe](https://github.com/nickcolley/jest-axe)
 * [React Axe](https://github.com/dequelabs/react-axe)
 * [Pa11y](https://pa11y.org/)
@@ -10,21 +10,22 @@
 * [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
 
 
-# To read
-* [Semantic Markup](https://html.com/semantic-markup/)
+## To read
+* [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
+* [WAI Aria](https://www.w3.org/TR/wai-aria/)
+* [Accessible headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
 * [Inclusive Design](https://www.microsoft.com/design/inclusive/)
+* [Semantic Markup](https://html.com/semantic-markup/)
 * [Accessibility Handbook](http://shop.oreilly.com/product/0636920024514.do)
 * [Atl Texts - The Ultimate Guide](https://axesslab.com/alt-texts/)
 * [Accessibility Checklist](http://romeo.elsevier.com/accessibility_checklist/)
 * [We are colorblind](https://wearecolorblind.com/)
-* [Accessible headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
 * [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/)
-* [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
 * [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 * [Accessibility testing](https://medium.com/walkme-engineering/web-accessibility-testing-d499a7f7a032)
 
 
-# Tools & Apps
+## Tools & Apps
 
 * [NoCoofee](https://accessgarage.wordpress.com/2013/02/09/458/) - Vision simulator tool
 * [Funkify](https://www.funkify.org/simulators/?v=f003c44deab6) - Simulator for different disabilities and ways of experiencing the web
@@ -43,6 +44,7 @@
 * [Chrome Vox](https://www.chromevox.com/) - Screen reader for chrome
 * [NVDA](https://www.nvaccess.org/) - Screen reader for windows
 * [Epilepsy Blocker](https://www.epilepsyblocker.com/figma)
+* [Tota11y](https://khan.github.io/tota11y/)
 
 
 # And more
@@ -51,3 +53,4 @@
 * [Color blind community on reddit](https://www.reddit.com/r/ColorBlind/)
 * [Google accessibility](https://www.google.com/accessibility/)
 * [Humane Design](https://humanebydesign.com)
+* [Motherfucking website](http://motherfuckingwebsite.com/)
