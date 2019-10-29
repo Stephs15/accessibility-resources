@@ -23,6 +23,8 @@
 * [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/)
 * [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 * [Accessibility testing](https://medium.com/walkme-engineering/web-accessibility-testing-d499a7f7a032)
+* [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+* [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 
 
 ## Tools & Apps
@@ -40,7 +42,7 @@
 * [Stark](https://getstark.co/) - Plugin for sketch, figma, adobe Xd, to help design for accessibility
 * [Color contrast](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) - Color contrast analizer for sketch
 * [Vue a11y](https://github.com/vue-a11y) - Accessibility tools for vue
-* [AccessLint](https://github.com/accesslint) - Check for accessiility in your pull requests
+* [AccessLint](https://github.com/accesslint) - Check for accessibility in your pull requests
 * [Chrome Vox](https://www.chromevox.com/) - Screen reader for chrome
 * [NVDA](https://www.nvaccess.org/) - Screen reader for windows
 * [Epilepsy Blocker](https://www.epilepsyblocker.com/figma)
