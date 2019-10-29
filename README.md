@@ -14,6 +14,7 @@
 * [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
 * [WAI Aria](https://www.w3.org/TR/wai-aria/)
 * [Accessible headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
+* [Aria Live Regions](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions)
 * [Inclusive Design](https://www.microsoft.com/design/inclusive/)
 * [Semantic Markup](https://html.com/semantic-markup/)
 * [Accessibility Handbook](http://shop.oreilly.com/product/0636920024514.do)
@@ -25,6 +26,7 @@
 * [Accessibility testing](https://medium.com/walkme-engineering/web-accessibility-testing-d499a7f7a032)
 * [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 * [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
+* [The Importance Of Manual Accessibility Testing](https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/)
 
 
 ## Tools & Apps
