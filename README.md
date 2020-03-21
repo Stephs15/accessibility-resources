@@ -8,9 +8,10 @@
 * [Axe Core](https://github.com/dequelabs/axe-core)
 * [Axe Coconut](https://chrome.google.com/webstore/detail/axe-coconut/iobddmbdndbbbfjopjdgadphaoihpojp)
 * [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
+* [WAVE](https://wave.webaim.org/)
 
 
-## To read
+## To read / Blogs
 * [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
 * [WAI Aria](https://www.w3.org/TR/wai-aria/)
 * [Accessible headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
@@ -27,6 +28,11 @@
 * [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 * [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 * [The Importance Of Manual Accessibility Testing](https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/)
+* [WebAIM Million](https://webaim.org/projects/million/)
+* [A11y Wins](https://a11ywins.tumblr.com/)
+* [Matutzo Blog](https://www.matuzo.at/)
+* [The Accessibility Tree](https://hiddedevries.nl/en/blog/2015-05-26-the-accessibility-tree)
+* [HTML elements Screen reader compatibility](https://www.powermapper.com/tests/screen-readers/elements/)
 
 
 ## Tools & Apps
@@ -58,3 +64,5 @@
 * [Google accessibility](https://www.google.com/accessibility/)
 * [Humane Design](https://humanebydesign.com)
 * [Motherfucking website](http://motherfuckingwebsite.com/)
+* [HTML Accessibility](https://www.html5accessibility.com/)
+* [WebAIM Writing Techniques](https://webaim.org/techniques/writing/)
